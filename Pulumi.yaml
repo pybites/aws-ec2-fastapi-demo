@@ -1,0 +1,4 @@
+name: pdm-cc-aws-ec2
+runtime:
+  name: python
+description: Infrastructure as Code for AWS EC2
